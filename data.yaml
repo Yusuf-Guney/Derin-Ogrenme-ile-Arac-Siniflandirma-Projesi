@@ -1,0 +1,7 @@
+
+train: ../data_yolo/images/train
+val: ../data_yolo/images/val
+test: ../data_yolo/images/test
+
+nc: 5
+names: ['Car', 'Motorcycle', 'Bus', 'Truck', 'Taxi']
