@@ -18,7 +18,7 @@ YOLOv5_Arac_Siniflandirma/
 
 ## 🔗 Bağlantılar
 
-* 🎩 Video Tanıtım: [YouTube Linki](https://example.com)
+* 🎩 Video Tanıtım: [YouTube Linki](https://www.youtube.com/watch?v=wUR8a0XJOrE)
 * 📁 Veri Seti Ham: [Data in Brief](https://www.sciencedirect.com/science/article/pii/S2352340924002336)
 * 💻 Veri Seti: [Drive](https://drive.google.com/file/d/1t8VefcJBFV_f7g_11V731jzZYRFCycgz/view?usp=drive_link)
 
