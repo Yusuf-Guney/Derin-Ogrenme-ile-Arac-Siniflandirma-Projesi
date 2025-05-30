@@ -20,7 +20,7 @@ YOLOv5_Arac_Siniflandirma/
 
 * 🎩 Video Tanıtım: [YouTube Linki](https://example.com)
 * 📁 Veri Seti (Google Drive): [Drive Linki](https://example.com)
-* 💻 GitHub Repo: [GitHub](https://github.com/kullanici/yolov5-arac-siniflandirma)
+* 💻 Veri Seti Ham: [GitHub](https://github.com/kullanici/yolov5-arac-siniflandirma)
 
 ## 📅 Kısa Açıklama
 
